@@ -1,29 +1,27 @@
-# mi-todoList-vue3
+🚀 Lista de Tareas Espacial 🌌
 
-This template should help get you started developing with Vue 3 in Vite.
+¡Bienvenidos al proyecto de la Lista de Tareas Espacial! Este proyecto es una aplicación web que permite a los usuarios gestionar sus tareas de manera eficiente, con un toque especial inspirado en el espacio. ✨
 
-## Recommended IDE Setup
+📋 Descripción del Proyecto:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+La Lista de Tareas Espacial está diseñada para ayudar a los usuarios a organizar sus tareas diarias en dos categorías principales:
 
-## Customize configuration
+🛠️ Trabajo: Tareas relacionadas con el ámbito laboral.
+🏠 Personal: Tareas del día a día o actividades personales.
+Cada tarea se clasifica según su categoría, con colores distintos para facilitar la identificación rápida. Esto no solo hace que la lista de tareas sea funcional, sino también visualmente atractiva y fácil de usar.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+🌟 Características Principales:
 
-## Project Setup
+Interfaz temática espacial: Una UI atractiva inspirada en el cosmos.
+Diferenciación de tareas: Usa colores diferentes para "Trabajo" y "Personal".
+Gestión de tareas fácil y rápida: Añadir, editar y eliminar tareas de manera sencilla.
 
-```sh
-npm install
-```
+🛠️ Tecnologías Utilizadas:
 
-### Compile and Hot-Reload for Development
+JavaScript: Lógica de la aplicación.
+Vue 3: Framework frontend para crear interfaces de usuario interactivas.
+HTML: Estructura de la aplicación.
+CSS3: Estilos y diseño visual.
+🚀 Pruebalo:
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+https://space-todo.netlify.app/
